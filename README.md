@@ -10,4 +10,4 @@ This program calculates the simple interest given the principal, annual rate of 
 ## Output:
 - `Simple Interest` = `p * t * r`
 
-2022 XYZ, Inc.
+2023 XYZ, Inc.
